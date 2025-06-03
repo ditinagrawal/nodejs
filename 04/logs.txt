@@ -1,0 +1,2 @@
+1748978551528 - IP Address: ::1	 - Method: GET	 - URL: /
+1748978551565 - IP Address: ::1	 - Method: GET	 - URL: /favicon.ico
